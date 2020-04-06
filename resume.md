@@ -1,7 +1,3 @@
- [Download Resume PDF](Liz-Fullmer-Resume.pdf)
-
- ---
-
 # Elizabeth Fullmer
 
 West Jordan, UT  
@@ -104,3 +100,9 @@ August 2016 to December 2016
 * Medical Records (Less than 1 year)
 * Medical Billing (Less than 1 year)
 * Retail Sales (1 Year) 
+
+---
+
+ [Download Resume PDF](Liz-Fullmer-Resume.pdf)
+
+ ---
