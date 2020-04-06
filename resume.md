@@ -1,8 +1,14 @@
+ [Download Resume PDF](Liz-Fullmer-Resume.pdf)
+
+ ---
+
 # Elizabeth Fullmer
 
 West Jordan, UT  
-lizfullmer27@gmail.com   
-(801)668-8155  
+LizFullmer27@gmail.com   
+(801) 668-8155  
+https://Liz-Fullmer.github.io  
+https://www.linkedin.com/in/liz-fullmer-982242105
 
 *Authorized to work in the US for any employer*
 
